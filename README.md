@@ -1,7 +1,7 @@
 implement a single-player multi-level version of a dungeons and dragons board
 game.
 
-The game starts with a collection of boards which represent the desired game-levels, running as follows:
+The game starts with a collection of boards which represent the desired game-levels, running as follows:                
 • The user chooses a player character.
 
 • The game starts with the first level. Each level consists of several rounds. A round, also called Game
